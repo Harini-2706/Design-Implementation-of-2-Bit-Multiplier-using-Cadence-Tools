@@ -107,8 +107,6 @@ For Transient Analysis Settings and Output
 
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
-
   
 
 Results:
